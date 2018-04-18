@@ -1,0 +1,20 @@
+body{
+    background-color:lightblue;
+}
+#info{
+    display:inline-block;
+    width:1500px;
+}
+#dex{
+    display:inline-block;
+    width:200px;
+    background-color:lightblue;
+    border:color red 2px;
+    vertical-align: top;
+    margin-top:200px;
+    height:3500px;
+    overflow: auto;
+}
+h1, h2{
+    text-align:center
+}
