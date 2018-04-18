@@ -1,6 +1,6 @@
 $(document).ready(function(){
 
-    for (var i=1;i<377;i++){
+    for (var i=1;i<719;i++){
         $('#info').append("<img id ="+i+" src='https://pokeapi.co/media/img/"+i+".png'>")    
     }
     $('img').click(function(){
